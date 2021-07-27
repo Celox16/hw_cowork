@@ -2,3 +2,4 @@
 3 introduce
 
 name : park kang min
+old : 25
