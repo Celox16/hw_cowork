@@ -2,5 +2,5 @@
 3 introduce
 
 name : park kang min
-old : 25
+old : 26
 live : GwangMyeong
